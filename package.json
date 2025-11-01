@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kunal-41/code.git"
+    "url": "git+https://github.com/Kunalpantawane/realtime-chat.git"
   },
   "keywords": ["chat", "realtime", "socket.io", "express"],
   "author": "Kunal",
